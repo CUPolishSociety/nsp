@@ -101,14 +101,13 @@
 		 <div class="col-md-4">
                         <div class="contact-wrapper">
                             <span class="icon"><i class="fa fa-facebook"></i></span>
-                            <p><a target="_blank" style="color:#fff;" href="https://www.facebook.com/events/350083491838208/?ref=ts&fref=ts">Follow us on Facebook</a></p>
+                            <p><a target="_blank" style="color:#fff;" href="https://www.facebook.com/NextStepPoland">Follow us on Facebook</a></p>
                         </div>
                     </div>
  		<div class="col-md-4">
                         <div class="contact-wrapper">
                             <span class="icon"><i class="fa fa-map-marker"></i></span>
-                            <p><a target="_blank" style="color:#fff;" href="https://www.google.pl/maps/place/Peterhouse/@52.200645,0.118133,15z/data=!4m2!3m1!1s0x0:0x257dc448e96f74dd?sa=X&ei=T9GWVKWeNY_lavDigdgD&ved=0CIoBEPwSMAs">Peterhouse
-College, Cambridge <br/>CB2 1RD</a></p>
+                            <p><a target="_blank" style="color:#fff;" href="#">Cambridge <br/>United Kingdom</a></p>
                         </div>
                     </div>
                 </div>
@@ -123,7 +122,7 @@ College, Cambridge <br/>CB2 1RD</a></p>
         </div>
 		<div class="site-info">
 			<div class="copyright">
-				&copy; Cambridge University Polish Society, 2014. Photo credits: Andrzej Kaczorowski
+				&copy; Cambridge University Polish Society, 2015. Photo credits: Andrzej Kaczorowski
 				<br>
 			</div>			
 		</div><!-- .site-info -->
