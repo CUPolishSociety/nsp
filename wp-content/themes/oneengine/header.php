@@ -138,7 +138,7 @@
      <header id="header">
         <div class="container" >
             <div class="row">
-                <div class="col-md-3 col-xs-3">
+                <div class="col-md-1 col-xs-1">
                     <!-- Logo
                     ======================================================================== -->
                     <div class="logo-wrapper">
@@ -163,7 +163,7 @@
                     <!-- Logo / End -->
                 </div>
                 
-                <div class="col-md-9 col-xs-9">
+                <div class="col-md-11 col-xs-11">
                     <!-- Menu
                     ======================================================================== --> 
                     <nav id="main-menu-top">
